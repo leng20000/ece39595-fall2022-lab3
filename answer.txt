@@ -20,3 +20,9 @@
         3)  Sprint Retrospective Meeting: 
             - Discuss the problems faced during the sprint and improvements for next sprint
             - Discuss any incompleted work that needs to be moved to the backlog
+
+(d) Differentiate between epic, story, bug and task in JIRA 
+        1) Epic: It is a large body of work that can be broken down into smaller stories
+        2) Story: A requirement that can be expressed in short sentences 
+        3) Bug: A bug like is similar to story but indicate the problem during one of the task involved 
+        4) Task: Work that has been assigned to each team members to complete 
