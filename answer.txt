@@ -9,3 +9,14 @@
         All scrum related task such as JIRA tooling, managing sprints and meetings
     Roles and Responsibilities of a Product Owner includes: 
         Setting a clear direction for the team, mostly deals with the management aspect of the project rather than technical
+
+(c) 3 types of meeting happened during a sprint cycle: 
+        1)  Sprint Planning Meeting: 
+            - Discuss moving the stories from backlog to current sprint
+            - Determine and assign stories to the team 
+        2)  Daily Scrum/Standup Meeting: 
+            - Team members discuss their completed work 
+            - Discuss about their plan this day and any obstacles
+        3)  Sprint Retrospective Meeting: 
+            - Discuss the problems faced during the sprint and improvements for next sprint
+            - Discuss any incompleted work that needs to be moved to the backlog
