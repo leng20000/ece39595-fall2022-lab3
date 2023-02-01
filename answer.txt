@@ -1,1 +1,6 @@
-
+(a) The pros of agile development are : 
+        1)  Collaborating with the customers to help match their wants/needs (specifications) 
+        2)  Breaking down task into smaller iterative steps to make the project easier to approach
+    The cons of agile development are: 
+        1)  More resilient to changes in the project meaning more work for the engineers 
+        2)  Takes more time to finish the project because incremental cycle of development, testing and feedbacks are introduced in every steps
